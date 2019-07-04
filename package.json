@@ -1,0 +1,14 @@
+{
+  "name": "wordgen",
+  "version": "1.0.0",
+  "description": "Generate pseudo-English words",
+  "main": "wordgen.js",
+  "keywords": [
+    "english"
+  ],
+  "author": "Thomas Hunter II <me@thomashunter.name>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "roguelike": "^0.5.0"
+  }
+}
